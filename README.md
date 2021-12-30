@@ -4,7 +4,7 @@ Padmaja Ayyagari ∗, Dan M. Shane
 Stata를 활용해 Does prescription drug coverage improve mental health? Evidence from Medicare Part D 논문의 패널 회귀분석 시행
 
 
-## 분석개요
+### 분석개요
 Medicare part D coverage가 mental health에 긍정적 영향을 미치는 지 검증한 패널 데이터 회귀 분석
 
 ### Data 
