@@ -9,6 +9,7 @@ Medicare part D coverage가 mental health에 긍정적 영향을 미치는 지 �
 
 ### Data 
 HRS data 2000~2010 
+총 35,428개 data
 
 ### Model
 Difference in differnce model, fixed effect model, Instrnmental Variable model
