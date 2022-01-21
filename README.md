@@ -1,4 +1,4 @@
-# -Does prescription drug coverage improve mental health? Evidence from Medicare Part D 논문 리뷰
+# -Does prescription drug coverage improve mental health? Evidence from Medicare Part D
 Padmaja Ayyagari ∗, Dan M. Shane
 
 Stata를 활용해 Does prescription drug coverage improve mental health? Evidence from Medicare Part D 논문의 패널 회귀분석 시행
